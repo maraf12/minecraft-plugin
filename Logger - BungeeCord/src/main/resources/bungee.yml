@@ -1,0 +1,23 @@
+name: Logger-BungeeCord
+version: '${project.version}'
+main: com.carpour.loggerbungeecord.Main
+description: Log all Activities from Players and Server Side!
+author: Prism3 & theloother
+commands:
+  reload:
+    description: "Reloads the plugin configs"
+permissions:
+  loggerproxy.staff:
+    description: "Allows the user to view Plugin Updates."
+    default: op
+    children:
+      loggerproxy.exempt: true
+      loggerproxy.reload: true
+  loggerproxy.exempt:
+    description: "Prevents the Player from Getting Logged."
+    default: op
+  loggerproxy.reload:
+    description: "Allows to Reload the Plugin."
+    default: op
+  loggerproxy.staff.log:
+    description: "Logs Staff Members."
