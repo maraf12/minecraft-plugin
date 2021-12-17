@@ -52,9 +52,6 @@
 ```
 java 8
 mysql / sql light 
-```mysql
-SELECT INET_NTOA("value");
-```
 ```
 #### Development Environment
 ```
@@ -68,10 +65,12 @@ Spigot
 ```
 ## Details
 
-If you use MySQL, the IP that gets stored in the Database when a Player joins
+>If you use MySQL, the IP that gets stored in the Database when a Player joins
 isn't storing a clear IP, but a number representation of the IP.
 To convert it back, just execute the following SQL Command:
-
+```mysql
+SELECT INET_NTOA("value");
+```
 
  ## The Team
  https://github.com/ExceptedPrism3
