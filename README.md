@@ -1,4 +1,4 @@
-# minecraft plugin
+# Minecraft Plugin
 >
 
 # Table of Contents
@@ -51,14 +51,14 @@
 
 #### Languages
 ```
-java 8
+JAVA 8
 MySQL / SQLite  
 ```
 #### Development Environment
 ```
 Minecraft Game 
-windows 10
-ubuntu 20.04
+Windows 10
+Ubuntu 20.04
 ```
 #### Frameworks and Libraries
 ```
