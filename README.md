@@ -65,7 +65,7 @@ Ubuntu 20.04
 Spigot
 PaperMC
 ```
-## Details :
+## Details
 
 >If you use MySQL, the IP that gets stored in the Database when a Player joins
 isn't storing a clear IP, but a number representation of the IP.
@@ -73,6 +73,13 @@ To convert it back, just execute the following SQL Command:
 ```mysql
 SELECT INET_NTOA("value");
 ```
+
+## Screenshots
+#### MySQL Tables
+![](../../Videos/1.png)
+#### File Logs
+![](../../Videos/2.png)
+![](../../Videos/3.png)
 
 ## The Team
 https://github.com/ExceptedPrism3
