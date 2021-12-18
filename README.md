@@ -65,7 +65,7 @@ Ubuntu 20.04
 Spigot
 PaperMC
 ```
-## Details
+## Details :
 
 >If you use MySQL, the IP that gets stored in the Database when a Player joins
 isn't storing a clear IP, but a number representation of the IP.
