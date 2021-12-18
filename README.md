@@ -76,10 +76,11 @@ SELECT INET_NTOA("value");
 
 ## Screenshots
 #### MySQL Tables
-![](../../Videos/1.png)
+![](ScreenShots/1.png)
 #### File Logs
-![](../../Videos/2.png)
-![](../../Videos/3.png)
+![](ScreenShots/2.png)
+
+![](ScreenShots/3.png)
 
 ## The Team
 https://github.com/ExceptedPrism3
