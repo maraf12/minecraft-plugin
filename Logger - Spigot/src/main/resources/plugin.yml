@@ -2,7 +2,7 @@ name: Logger
 version: ${project.version}
 main: com.carpour.logger.Main
 api-version: 1.13
-authors: [ Prism3 , thelooter ]
+authors: [ Prism3 , Salwa, Marwa ]
 description: Log all Activities from Players and Server Side!
 softdepend: [Essentials , AuthMe]
 commands:
